@@ -4,7 +4,9 @@
       <svg class="icon" aria-hidden="true">
          <use :xlink:href="item.code"></use>
       </svg>
-      <span class="key">{{item.key}}:</span><span ref="what">{{item.value}}</span>
+      <span class="key">{{item.key}}:</span>
+      <span ref="what">{{item.value}}</span>
+      <a v-if="item.src" :href="item.src" target="_blank">进入</a>
     </div>
   </div>
 </template>
@@ -54,9 +56,17 @@ export default {
         },
         {
           'id': '007',
-          'key': '码云',
-          'value': 'https://gitee.com/ddhanjiangxue',
-          'code': '#iconma'
+          'key': '博客',
+          'value': 'hexo/LJYALW',
+          'src':'http://blog.better2020.top',
+          'code': ''
+        },
+        {
+          'id': '008',
+          'key': 'GitHub',
+          'src':'https://github.com/liujiaoy',
+          'value': 'github.com/liujiaoy',
+          'code': ''
         }
       ]
     }
