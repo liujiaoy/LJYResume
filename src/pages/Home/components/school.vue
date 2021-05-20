@@ -34,7 +34,7 @@ export default {
           'id': '003',
           'key': '专业',
           'value': '网络工程',
-          'code': '#iconxuexiao1'
+          'code': '#iconxueli'
         },
         {
           'id': '004',
@@ -51,7 +51,7 @@ export default {
         {
           'id': '006',
           'key': '联系电话',
-          'value': '157798870XX',
+          'value': '15779887084',
           'code': '#icondianhua'
         },
         {
@@ -59,14 +59,21 @@ export default {
           'key': '博客',
           'value': 'hexo/LJYALW',
           'src':'http://blog.better2020.top',
-          'code': ''
+          'code': '#iconboke'
         },
         {
           'id': '008',
           'key': 'GitHub',
           'src':'https://github.com/liujiaoy',
           'value': 'github.com/liujiaoy',
-          'code': ''
+          'code': '#icongithub'
+        },
+        {
+          'id': '009',
+          'key': '邮箱',
+          'src':'',
+          'value': '958479953@qq.com',
+          'code': '#iconyouxiang'
         }
       ]
     }
@@ -79,17 +86,11 @@ export default {
     font-size: 1.5rem
   .education
     position: absolute
-    left: 50%
     top: 4rem
-    margin-left: -12rem
+    left: 4rem
     .school
       margin-bottom: 2rem
       .key
         display: inline-block
         width: 10rem
-    // .gitee
-    //   position: absolute
-    //   height: 5rem
-    //   width: 10rem
-    //   background: rgba(0,0,0,0.1)
 </style>

@@ -1,23 +1,37 @@
 {
-  "id": "1497385",
-  "name": "Travel",
+  "id": "2559611",
+  "name": "resume",
   "font_family": "iconfont",
   "css_prefix_text": "icon",
-  "description": "Travel 项目图标",
+  "description": "简历",
   "glyphs": [
+    {
+      "icon_id": "12498347",
+      "name": "3博客",
+      "font_class": "boke",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "128976",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e7ab",
+      "unicode_decimal": 59307
+    },
+    {
+      "icon_id": "15023778",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
     {
       "icon_id": "10206",
       "name": "码",
       "font_class": "ma",
       "unicode": "e600",
       "unicode_decimal": 58880
-    },
-    {
-      "icon_id": "15372",
-      "name": "图片",
-      "font_class": "tupian",
-      "unicode": "e647",
-      "unicode_decimal": 58951
     },
     {
       "icon_id": "1268559",
@@ -41,27 +55,6 @@
       "unicode_decimal": 59253
     },
     {
-      "icon_id": "2674472",
-      "name": "返回",
-      "font_class": "fanhui",
-      "unicode": "e624",
-      "unicode_decimal": 58916
-    },
-    {
-      "icon_id": "2674929",
-      "name": "箭头 下",
-      "font_class": "jiantouxia",
-      "unicode": "e62d",
-      "unicode_decimal": 58925
-    },
-    {
-      "icon_id": "2675116",
-      "name": "搜索",
-      "font_class": "sousuo",
-      "unicode": "e632",
-      "unicode_decimal": 58930
-    },
-    {
       "icon_id": "3893828",
       "name": "籍贯",
       "font_class": "jiguan",
@@ -78,9 +71,16 @@
     {
       "icon_id": "7140576",
       "name": "学校",
-      "font_class": "xuexiao1",
+      "font_class": "xueli",
       "unicode": "e643",
       "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "7561097",
+      "name": "花",
+      "font_class": "flower",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
     },
     {
       "icon_id": "8139741",

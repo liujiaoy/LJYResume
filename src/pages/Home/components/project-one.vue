@@ -14,7 +14,7 @@
       </swiper>
     </div>
     <div class="play">
-      <a href="http://ddhanjiangxue.gitee.io/travel">进去瞅瞅</a>
+      <a target="_blank" href="http://travel.better2020.top/dist">进去瞅瞅</a>
     </div>
   </div>
 </template>
