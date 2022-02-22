@@ -69,13 +69,13 @@ export default {
       font-size: 2rem
     .content
       .swiper-container
-        width: 350px!important
-        height: 350px
+        width: 20rem!important
+        height: 20rem
         position: absolute
         left: 50%
         top: 55%
-        margin-left: -150px
-        margin-top: -150px
+        margin-left: -10rem
+        margin-top: -10rem
       .swiper-slide
         background-position: center
         background-size: cover

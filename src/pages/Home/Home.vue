@@ -1,7 +1,7 @@
 <template>
   <div class="swiper">
     <swiper :options="swiperOption" class="swiper-content">
-      <swiper-slide :style="autoH" >
+      <swiper-slide >
         <base-info></base-info>
       </swiper-slide>
       <swiper-slide>

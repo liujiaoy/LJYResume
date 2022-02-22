@@ -18,10 +18,10 @@ export default {
     }
   },
   mounted () {
-    console.log('mounted')
+    // console.log('mounted')
   },
   activated () {
-    console.log('aaa')
+    // console.log('aaa')
   }
 }
 </script>

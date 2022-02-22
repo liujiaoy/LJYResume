@@ -11,6 +11,8 @@ export default {
 <style lang="stylus">
 body 
   overflow: hidden
+  padding: 0
+  margin: 0 
 html
   font-size: 16px; 
 .icon
